@@ -1,2 +1,1 @@
-# JAMSite
-Testing A Site Built With Hugo
+#JAMSite A Site built with Hugo
